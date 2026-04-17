@@ -1,6 +1,6 @@
-<p align="center">
+<!-- <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Shahanas%20TP&fontSize=40&fontColor=ffffff"/>
-</p>
+</p> -->
 
 # 👋 Hey, I'm Shahanas TP
 
