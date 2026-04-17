@@ -24,6 +24,8 @@ I build modern web applications using the MERN stack, focusing on clean UI, scal
 ### 🖥️ Frontend
 
 * React.js
+* Redux
+* Tailwind, Bootstrap
 * HTML, CSS, JavaScript
 
 ### 🧠 Backend
@@ -34,12 +36,14 @@ I build modern web applications using the MERN stack, focusing on clean UI, scal
 ### 🗄️ Database
 
 * MongoDB
+* MySQL
 
 ### 🛠️ Tools
 
 * Git & GitHub
 * Postman
 * VS Code
+* Linux
 
 ---
 
